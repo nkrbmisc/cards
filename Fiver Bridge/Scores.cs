@@ -62,7 +62,7 @@ namespace Fiver_Bridge
             if (!int.TryParse(tb7.Text, out i))
             {
                 label1.ForeColor = Color.Red;
-                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb7.SelectAll(); //tb7.Focus();
+                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb7.SelectAll(); tb7.Focus();
             }
             else if (int.Parse(tb7.Text) > cardNum)
             {
@@ -82,7 +82,7 @@ namespace Fiver_Bridge
             if (!int.TryParse(tb8.Text, out i))
             {
                 label1.ForeColor = Color.Red;
-                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb8.SelectAll(); //tb8.Focus();
+                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb8.SelectAll(); tb8.Focus();
             }
             else if (int.Parse(tb8.Text) > cardNum)
             {
@@ -102,7 +102,7 @@ namespace Fiver_Bridge
             if (!int.TryParse(tb9.Text, out i))
             {
                 label1.ForeColor = Color.Red;
-                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb9.SelectAll(); //tb9.Focus();
+                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb9.SelectAll(); tb9.Focus();
             }
             else if (int.Parse(tb9.Text) > cardNum) { label1.Text = "BID MUST BE LESS THAN : " + cardNum;
                 tb9.SelectAll(); } //tb9.Focus(); }
@@ -120,7 +120,7 @@ namespace Fiver_Bridge
             if (!int.TryParse(tb10.Text, out i))
             {
                 label1.ForeColor = Color.Red;
-                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb10.SelectAll(); //tb10.Focus();
+                label1.Text = "PLEASE ENTER A VALID NUMBER !"; tb10.SelectAll(); tb10.Focus();
             }
             else if (int.Parse(tb10.Text) > cardNum) { label1.Text = "BID MUST BE LESS THAN : " + cardNum;
                 tb10.SelectAll(); } //tb10.Focus(); }
@@ -482,7 +482,7 @@ namespace Fiver_Bridge
                 "                     Bidder: " + textBox1.Text;
                 tbid = 0; tgot = 0; 
                 comboBox1.Enabled = false; comboBox1.SelectedIndex = 5;
-                ClearBIdGot(); ErrorHide();
+                ClearBIdGot(); //ErrorHide();
 
             }
             else
@@ -583,6 +583,7 @@ namespace Fiver_Bridge
             {
                 foreach (Control contrl in this.Controls)
                 {
+                    Console.WriteLine("Control: " + contrl.Name);
                     if (contrl.Name == ("tb" + i.ToString()))
                     {
                         errorProvider1.Clear();

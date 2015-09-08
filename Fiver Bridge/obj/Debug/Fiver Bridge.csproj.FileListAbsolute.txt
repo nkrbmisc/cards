@@ -8,3 +8,14 @@ c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridg
 c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Game.resources
 c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Help.resources
 c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Scores.resources
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\bin\Debug\Fiver Bridge.exe.config
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver Bridge.exe
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver Bridge.pdb
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\bin\Debug\Fiver Bridge.exe
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\bin\Debug\Fiver Bridge.pdb
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver_Bridge.Game.resources
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver_Bridge.Help.resources
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver_Bridge.Properties.Resources.resources
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver_Bridge.Scores.resources
+C:\Users\Sathya\Desktop\cards\Fiver Bridge\obj\Debug\Fiver Bridge.csproj.GenerateResource.Cache
