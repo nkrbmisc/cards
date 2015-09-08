@@ -1,0 +1,10 @@
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\bin\Debug\Fiver Bridge.exe.config
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\bin\Debug\Fiver Bridge.exe
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\bin\Debug\Fiver Bridge.pdb
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Properties.Resources.resources
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver Bridge.csproj.GenerateResource.Cache
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver Bridge.exe
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver Bridge.pdb
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Game.resources
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Help.resources
+c:\users\bhadrans\documents\visual studio 2015\Projects\Fiver Bridge\Fiver Bridge\obj\Debug\Fiver_Bridge.Scores.resources
